@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"Insert Nums",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint Gutter",
+		"JSON Reindent",
+		"LineEndings",
+		"Markdown Extended",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownTOC",
+		"Minify",
+		"Monokai Extended",
+		"Package Control",
+		"RawLineEdit",
+		"SideBarEnhancements",
+		"Sort Lines (Numerically)",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-shellcheck",
+		"Theme - itg.flat",
+		"View In Browser"
+	]
+}

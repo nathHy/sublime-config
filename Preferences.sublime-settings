@@ -1,0 +1,49 @@
+{
+	"auto_match_enabled": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		".git/**",
+		"node_modules/**"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"folder_exclude_patterns":
+	[
+		"node_modules/**",
+		".git/**"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JSHint Gutter",
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"itg_sidebar_tree_medium": true,
+	"itg_xsmall_tabs": true,
+	"laxbreak": true,
+	"mid_line_tabs": true,
+	"shift_tab_unindent": true,
+	"smart_indent": false,
+	"smarttabs": true,
+	"tab_completion": false,
+	"tab_size": 2,
+	"theme": "itg.flat.dark.orange.sublime-theme",
+	"trailing": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false
+}
